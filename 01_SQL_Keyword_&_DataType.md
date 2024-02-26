@@ -1,5 +1,3 @@
-Certainly! Here's the information reformatted in markdown:
-
 ### SQL Keywords
 
 **Data Definition Language (DDL) Keywords:**
